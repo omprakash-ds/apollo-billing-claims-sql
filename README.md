@@ -10,6 +10,6 @@ An automated SQL control layer that identifies unbilled clinical services, track
 * **ACID Transactions:** Implemented `COMMIT` and `ROLLBACK` logic to ensure atomic updates across claims and invoices.
 * **Python & API Integration:** REST API ingestion and CRUD lifecycle testing via `requests`, orchestrated with SQLite.
 ## Documentation & Execution
-* **Schema Design:** ![ER Diagram](docs/er_diagram.png)
+* **Schema Design:** ![ER Diagram](docs/dashboard.png)
 * **Validation Output:** ![Validation Dashboard](docs/dashboard.png)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omprakash-ds/apollo-billing-claims-sql/blob/main/notebooks/Apollo_Billing_Claims.ipynb)
