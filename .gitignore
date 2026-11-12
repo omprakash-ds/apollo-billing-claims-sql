@@ -1,0 +1,9 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.sqlite3
+Thumbs.db
+.DS_Store
